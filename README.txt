@@ -1,1 +1,2 @@
-CMTKB V2 MULTIPAGES — envoyer tous les fichiers à la racine de GitHub Pages. Aucun dossier assets nécessaire. Chaque rubrique est une page HTML indépendante.
+CMTKB — VERSION MULTIPAGES SANS SOUS-DOSSIERS
+Tous les fichiers et images sont à la racine du ZIP.
