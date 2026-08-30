@@ -1,1 +1,1 @@
-CMTKB V2 — logo officiel corrigé. Aucun dossier assets nécessaire.
+CMTKB V2 MULTIPAGES — envoyer tous les fichiers à la racine de GitHub Pages. Aucun dossier assets nécessaire. Chaque rubrique est une page HTML indépendante.
